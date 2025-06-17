@@ -1,5 +1,5 @@
 {
-  "name": "itTools-worker",
+  "name": "itTools",
   "compatibility_date": "2025-06-17",
   "assets": {
     "directory": "./dist"
